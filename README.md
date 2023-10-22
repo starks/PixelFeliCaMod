@@ -4,3 +4,7 @@ A Magisk module to help prep your Pixel for enabling FeliCa. This module leans h
 You will still need the various Osaifu-Keitai, FeliCa, and Google Wallet apps listed as well as a quick VPN to Japan. Sideloading with `adb install` may be necessary.
 
 This module is still under construction. Use at your own risk.
+
+Tested on:
+* Pixel 7 (US)
+* Pixel 8 Pro (US)
