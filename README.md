@@ -5,6 +5,8 @@ You will still need the various Osaifu-Keitai, FeliCa, and Google Wallet apps li
 
 This module is still under construction. I'll be cleaning it up for proper tagging, attribution, and zipping. Use at your own risk. Should be able to clone and zip up the contents of the root folder as a functioning module.
 
+I have not tested this in the wild and will not be able to do so until January if at all.
+
 Tested on:
 * Pixel 7 (US)
 * Pixel 8 Pro (US)
