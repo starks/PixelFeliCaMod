@@ -1,7 +1,7 @@
 id=felica
 name=Starks' FeliCa mod
-version=v0.1
+version=v0.4
 versionCode=1
 author=Starks
-description=felica
+description=A Magisk module to help prep your Pixel for enabling FeliCa
 minMagisk=19000
