@@ -8,5 +8,4 @@ The main discussion can be found here: https://github.com/jjyao88/unlock-felica-
   * Unknown, but it works
 
 ## TODO 
-* Maybe it'll be better to simply edit the config instead of trying to force a static MDIK or dynamically determine from a device table.
-* Testing Pixel Watch 2
+* Testing Pixel Watch 2 - watches need to be approached differently
